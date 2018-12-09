@@ -1,1 +1,1 @@
-# 641_tutorial
+# Repository for CMSC641 final project/tutorial
